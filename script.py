@@ -14,3 +14,16 @@
 # Jeho úkolem bylo naprogramovat
 #  - funkci, která volá Amálčinu funkci, pak dělá nějaké výpočty a nakonec nevrátí nic
 #  - funkci, která volá v cyklu Amálčinu funkci
+
+from importantFunction import importantFunction
+
+def functionThatDoesNothing1():
+	importantFunction()
+	a = 1
+	b = 2
+	c = a + b
+	return
+
+def functionThatDoesNothing1():
+	for i in range(10):
+		importantFunction()
