@@ -5,3 +5,4 @@
 # Pepa je chytrý, proto vyvíjí v dev
 
 # Na tento velký projekt přibyl Franta, který dostal za úkol implementovat novou featuru (Dělá to, že nedělá nic)
+# (Tyto dva řádky napsal Franta)
