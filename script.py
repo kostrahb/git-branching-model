@@ -10,3 +10,5 @@
 # Na tento velký projekt přibyl Franta, který dostal za úkol implementovat novou featuru (Dělá to, že nedělá nic)
 # (Tyto dva řádky napsal Franta)
 
+
+# Na projekt přibyla projektová manažerka Jana a nová juniorní vývojářka Amálka. Klient požaduje vytvoření nové velké featury. Jana proto vzala specifikace a protože se daná featura skládá z několika dílčích úkolů, rozdělila ji na tyto úkoly. První a nejlehčí část dostala na starost Amálka. Pro ní byla založena větev issue/big-feature-1 a má za úkol naprogramovat funkci, která nedělá nic.
