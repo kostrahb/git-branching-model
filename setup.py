@@ -7,7 +7,6 @@ from os import path
 import os
 import subprocess
 
-name = 'Nothing'
 version = '0.0.1'
 description = 'A program that does nothing'
 url = 'https://github.com/kostrahb'
@@ -17,7 +16,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 	long_description = f.read()
 
 setup(
-	name=name,
+	name='nothing',
 	version=version,
 	description=description,
 	long_description=long_description,
@@ -33,11 +32,11 @@ setup(
 		'Programming Language :: Python :: 2.7',
 	],
 	keywords='nothing',
-	packages=[name],
+	packages=['nothing'],
 	entry_points={
-		'nothing': [
-			name+'1 = script:functionThatDoesNothing1',
-			name+'2 = script:functionThatDoesNothing2',
+		'console_scripts': [
+			'nothing1 = nothing.nothing:functionThatDoesNothing1',
+			'nothing2 = nothing.nothing:functionThatDoesNothing2',
 		],
 	},
 )
