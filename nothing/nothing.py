@@ -27,10 +27,11 @@ def functionThatDoesNothing1():
 	c = a + b
 	return
 
-def functionThatDoesNothing1():
+def functionThatDoesNothing2():
 	for i in range(10):
 		importantFunction()
 
 # Pepa, protože je nejlepší programátor z týmu a vyzná se v pythoních balíčcích, dostal na starost napsání instalačního skriptu.
 # Specifikováno od Jany dostal, že zákazník bude používat dvě funkce functionThatDoesNothing1 a functionThatDoesNothing2
 
+# Do projektu byl zapojen i tester Jára. Vše otestoval a zjistil, že nefunguje příkaz nothing2. Zkoumáním se zjistilo, že neexistuje functionThatDoesNothing2, protože se chybně jmenuje functionThatDoesNothing1
