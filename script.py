@@ -30,3 +30,7 @@ def functionThatDoesNothing1():
 def functionThatDoesNothing1():
 	for i in range(10):
 		importantFunction()
+
+# Pepa, protože je nejlepší programátor z týmu a vyzná se v pythoních balíčcích, dostal na starost napsání instalačního skriptu.
+# Specifikováno od Jany dostal, že zákazník bude používat dvě funkce functionThatDoesNothing1 a functionThatDoesNothing2
+
