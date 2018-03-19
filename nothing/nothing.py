@@ -35,3 +35,5 @@ def functionThatDoesNothing2():
 # Specifikováno od Jany dostal, že zákazník bude používat dvě funkce functionThatDoesNothing1 a functionThatDoesNothing2
 
 # Do projektu byl zapojen i tester Jára. Vše otestoval a zjistil, že nefunguje příkaz nothing2. Zkoumáním se zjistilo, že neexistuje functionThatDoesNothing2, protože se chybně jmenuje functionThatDoesNothing1
+
+# Při releasu nové verze proběhlo velké testování. Někdo zjistil, že chybí vysvětlení proč a jak používat release větve, proto tento komentář. Commity v release větvi se postupně mergují do dev.
