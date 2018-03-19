@@ -10,3 +10,5 @@
 # Na tento velký projekt přibyl Franta, který dostal za úkol implementovat novou featuru (Dělá to, že nedělá nic)
 # (Tyto dva řádky napsal Franta)
 
+# Pepa, protože je nejlepší programátor z týmu a vyzná se v pythoních balíčcích, dostal na starost napsání instalačního skriptu.
+# Specifikováno od Jany dostal, že zákazník bude používat dvě funkce functionThatDoesNothing1 a functionThatDoesNothing2
